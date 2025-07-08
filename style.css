@@ -1,0 +1,9 @@
+body {
+    background-image: url("./assets/bg.jpg");
+    background-repeat: no-repeat; /* keyworld */
+    background-size: 100% auto; /* width height */
+    background-position: top center; /* width height */
+    background-color: #121214; /* color */
+    color: white;
+}
+
