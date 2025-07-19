@@ -13,7 +13,7 @@ Criar uma interface moderna e interativa que simula um **Assistente de Inteligê
 - Interface com design responsivo e animações suaves.
 - Integração com a API do Gemini para simular respostas de IA.
 - Layout inspirado em temas gamer.
-- Acompanhamento do jogador em tempo real (conceitualmente).
+- Acompanhamento do jogador estrategicamente.
 
 ## 🛠 Tecnologias Utilizadas
 
