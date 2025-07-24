@@ -64,8 +64,8 @@ Criar uma interface moderna e interativa, que simula um **Assistente de Intelig�
 ## 🚀 Como Executar
 
 1. Clone este repositório
-2. Insira sua chave da API no arquivo `geminiApi.js`
-3. Abra o `index.html` em seu navegador
+2. Abra o `index.html` em seu navegador
+3. Insira sua chave da API no 1º campo do formulário
 4. Aproveite a assistência estratégica da IA 🎮
 
 
