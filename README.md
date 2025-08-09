@@ -7,7 +7,7 @@
 
 ## 🎯 Objetivo
 
-Criar uma interface moderna e interativa, que simula um **Assistente de Inteligência Artificial para Gamers**.A proposta é auxiliar o jogador com sugestões de builds, estratégias de combate e tomada de decisão dentro das partidas. — utilizando a API do **Gemini** como motor de IA.
+Criar uma interface moderna e interativa, que simula um **Assistente de Inteligência Artificial para Gamers**.A proposta é auxiliar o jogador com sugestões de builds, estratégias de combate e tomada de decisão dentro das partidas. utilizando a API do **Gemini** como motor de IA.
 
 
 ## ✨ Funcionalidades
