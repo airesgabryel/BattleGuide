@@ -3,7 +3,7 @@
 **BattleGuide** é um assistente inteligente para gamers, projetado para fornecer dicas estratégicas e suporte em tempo real durante a gameplay — tudo isso com a potência da **API Gemini**, da Google.
 
 
->Este é um projeto **frontend** desenvolvido com **HTML**, **CSS** e **JavaScript**.
+>Este projeto foi desenvolvido com » **HTML**, **CSS** e **JavaScript**.
 
 ## 🎯 Objetivo
 
