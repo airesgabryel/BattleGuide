@@ -8,7 +8,6 @@ const form = document.getElementById('form');
 
 // Função para converter Markdown para HTML usando Showdown
 // A biblioteca Showdown é usada para converter texto em Markdown para HTML
-
 // A função markdownToHTML recebe um texto em Markdown e retorna o HTML correspondente
 
 const markdownToHTML = (text) => {
