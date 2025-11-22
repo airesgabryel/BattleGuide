@@ -74,7 +74,6 @@ const perguntarAI = async (question, game, apiKey) => {
         })
     })
 
-
     const data = await response.json()
     return data.candidates[0].content.parts[0].text // retorna a resposta da IA
 }
