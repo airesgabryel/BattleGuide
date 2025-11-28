@@ -44,7 +44,6 @@ Criar uma interface moderna e interativa, que simula um **Assistente de Intelig�
 ```
  
 ## Aviso Importante
-
 >Atenção: O projeto utiliza a API do Gemini, que requer uma chave de API para funcionar corretamente, essa chave é de uso pessoal e não deve ser compartilhada publicamente, portanto, não deve ser incluída no código fonte do projeto.
 
 ## 🔑 Como Criar a própria chave de API
