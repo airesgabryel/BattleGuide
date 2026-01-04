@@ -1,4 +1,4 @@
-# 🧠 BattleGuide - Assistente de IA para jogadores
+# 🧠🤖 BattleGuide - Assistente de IA para jogadores
 
 **BattleGuide** é um assistente inteligente para gamers, projetado para fornecer dicas estratégicas e suporte em tempo real durante a gameplay — tudo isso com a potência da **API Gemini**, da Google.
 
