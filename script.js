@@ -34,12 +34,13 @@ const perguntarAI = async (question, game, apiKey) => {
     ## Resposta
     -Economize na resposta, seja direto. 
     -Responda em markdown.
-    -Não precisa fazer nenhuma saudação ou despedida, apenas responda o que o usuário está querendo.
+    -Não precisa fazer nenhuma saudação ou despedida, apenas responda o que o usuário está querendo.  
     
     ---
     Aqui está a pergunta do usuário: ${question}"
     `
-/*engenharia de prompt utilizando técnicas de engenharia de prompt para melhorar a qualidade da resposta da IA
+    
+/*engenharia de prompt utilizando técnicas para melhorar a qualidade da resposta da IA.
 
     A engenharia de prompt é uma técnica que envolve a criação de prompts específicos e detalhados para guiar a IA na geração de respostas mais precisas e relevantes.
     Neste caso, o prompt é estruturado para fornecer informações claras sobre a especialidade da IA, a tarefa que ela deve realizar, as regras que deve seguir e como formatar a resposta.
